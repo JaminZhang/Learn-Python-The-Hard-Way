@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# ex2: Comments and Pound Characters
+# ex02: Comments and Pound Characters
 
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
