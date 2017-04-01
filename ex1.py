@@ -1,3 +1,5 @@
+# ex1: A Good First Program
+
 print "Hello World!"
 print "Hello Aagin"
 print "I like typing this."
