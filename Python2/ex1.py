@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # ex1: A Good First Program
 
 print "Hello World!"
