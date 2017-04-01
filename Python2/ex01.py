@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# ex1: A Good First Program
+# ex01: A Good First Program
 
 print "Hello World!"
 print "Hello Aagin"
